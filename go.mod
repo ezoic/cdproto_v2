@@ -1,4 +1,4 @@
-module github.com/chromedp/cdproto
+module github.com/ezoic/cdproto_v2
 
 require (
 	github.com/knq/sysutil v0.0.0-20191005231841-15668db23d08

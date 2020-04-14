@@ -4,8 +4,8 @@ package dom
 
 import (
 	json "encoding/json"
-	cdp "github.com/chromedp/cdproto/cdp"
-	runtime "github.com/chromedp/cdproto/runtime"
+	cdp "github.com/ezoic/cdproto_v2/cdp"
+	runtime "github.com/ezoic/cdproto_v2/runtime"
 	easyjson "github.com/mailru/easyjson"
 	jlexer "github.com/mailru/easyjson/jlexer"
 	jwriter "github.com/mailru/easyjson/jwriter"

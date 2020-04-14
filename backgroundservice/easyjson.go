@@ -4,8 +4,8 @@ package backgroundservice
 
 import (
 	json "encoding/json"
-	cdp "github.com/chromedp/cdproto/cdp"
-	serviceworker "github.com/chromedp/cdproto/serviceworker"
+	cdp "github.com/ezoic/cdproto_v2/cdp"
+	serviceworker "github.com/ezoic/cdproto_v2/serviceworker"
 	easyjson "github.com/mailru/easyjson"
 	jlexer "github.com/mailru/easyjson/jlexer"
 	jwriter "github.com/mailru/easyjson/jwriter"

@@ -16,7 +16,7 @@ before_install:
   - cd $GOPATH/src/github.com/chromedp/chromedp
   - go get -d -t
 script:
-  - cd $GOPATH/src/github.com/chromedp/cdproto
+  - cd $GOPATH/src/github.com/ezoic/cdproto_v2
   - go install ./...
   - cd $GOPATH/src/github.com/chromedp/chromedp
   - go test -v

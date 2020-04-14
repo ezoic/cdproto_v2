@@ -11,7 +11,7 @@ package tethering
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/ezoic/cdproto_v2/cdp"
 )
 
 // BindParams request browser port binding.

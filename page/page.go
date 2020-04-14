@@ -13,11 +13,11 @@ import (
 	"context"
 	"encoding/base64"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/debugger"
-	"github.com/chromedp/cdproto/dom"
-	"github.com/chromedp/cdproto/io"
-	"github.com/chromedp/cdproto/runtime"
+	"github.com/ezoic/cdproto_v2/cdp"
+	"github.com/ezoic/cdproto_v2/debugger"
+	"github.com/ezoic/cdproto_v2/dom"
+	"github.com/ezoic/cdproto_v2/io"
+	"github.com/ezoic/cdproto_v2/runtime"
 )
 
 // AddScriptToEvaluateOnNewDocumentParams evaluates given script in every

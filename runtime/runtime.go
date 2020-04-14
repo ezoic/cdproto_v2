@@ -16,7 +16,7 @@ package runtime
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/ezoic/cdproto_v2/cdp"
 )
 
 // AwaitPromiseParams add handler to promise with given promise object id.

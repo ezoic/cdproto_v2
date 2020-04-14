@@ -5,7 +5,7 @@ package fetch
 import (
 	"errors"
 
-	"github.com/chromedp/cdproto/network"
+	"github.com/ezoic/cdproto_v2/network"
 	"github.com/mailru/easyjson"
 	"github.com/mailru/easyjson/jlexer"
 	"github.com/mailru/easyjson/jwriter"

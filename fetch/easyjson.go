@@ -4,8 +4,8 @@ package fetch
 
 import (
 	json "encoding/json"
-	io "github.com/chromedp/cdproto/io"
-	network "github.com/chromedp/cdproto/network"
+	io "github.com/ezoic/cdproto_v2/io"
+	network "github.com/ezoic/cdproto_v2/network"
 	easyjson "github.com/mailru/easyjson"
 	jlexer "github.com/mailru/easyjson/jlexer"
 	jwriter "github.com/mailru/easyjson/jwriter"

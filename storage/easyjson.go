@@ -4,8 +4,8 @@ package storage
 
 import (
 	json "encoding/json"
-	cdp "github.com/chromedp/cdproto/cdp"
-	network "github.com/chromedp/cdproto/network"
+	cdp "github.com/ezoic/cdproto_v2/cdp"
+	network "github.com/ezoic/cdproto_v2/network"
 	easyjson "github.com/mailru/easyjson"
 	jlexer "github.com/mailru/easyjson/jlexer"
 	jwriter "github.com/mailru/easyjson/jwriter"

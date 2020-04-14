@@ -11,7 +11,7 @@ package media
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/ezoic/cdproto_v2/cdp"
 )
 
 // EnableParams enables the Media domain.

@@ -9,7 +9,7 @@ package input
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/ezoic/cdproto_v2/cdp"
 )
 
 // DispatchKeyEventParams dispatches a key event to the page.

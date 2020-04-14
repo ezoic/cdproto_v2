@@ -9,8 +9,8 @@ package accessibility
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
-	"github.com/chromedp/cdproto/runtime"
+	"github.com/ezoic/cdproto_v2/cdp"
+	"github.com/ezoic/cdproto_v2/runtime"
 )
 
 // DisableParams disables the accessibility domain.

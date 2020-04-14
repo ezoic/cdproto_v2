@@ -9,7 +9,7 @@ package memory
 import (
 	"context"
 
-	"github.com/chromedp/cdproto/cdp"
+	"github.com/ezoic/cdproto_v2/cdp"
 )
 
 // GetDOMCountersParams [no description].
